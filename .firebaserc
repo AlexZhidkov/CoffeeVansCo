@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "coffeevansco": {
+      "hosting": {
+        "CoffeeVansCo": [
+          "coffeevansco"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "coffeevansco"
+  }
+}
